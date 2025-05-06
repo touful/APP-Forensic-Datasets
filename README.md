@@ -1,6 +1,6 @@
 # APP-Forensic-Datasets
 - There are two folders, app and question, in all folders, which store the original samples and corresponding forensic apps
-- A total of 11 APP samples and 62 forensic tasks
+- A total of 15 APP samples and 58 forensic tasks
 
 ## matchs 
 - some forensic matches' APP datasets
